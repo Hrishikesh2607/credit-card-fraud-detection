@@ -1,0 +1,5 @@
+{
+  "threshold": 0.15,
+  "fraud_loss": 150,
+  "alarm_cost": 5
+}
