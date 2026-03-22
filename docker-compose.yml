@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  fraud-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./models:/app/models   # swap models without rebuild
+    environment:
+      - LOG_LEVEL=info
+    restart: unless-stopped
