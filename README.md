@@ -87,3 +87,7 @@ fraud-detection/
   FN×$150 + FP×$5, not F1 alone
 - **Training-serving parity**: preprocess.py mirrors
   02_features.ipynb exactly to prevent serving skew
+
+## 👤 Author
+
+**Hrishikesh Ganji**
