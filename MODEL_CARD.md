@@ -16,7 +16,7 @@
 
 | Metric              | Value   |
 |---------------------|---------|
-| AUPRC               | 0.880   |
+| AUPRC               | 0.882   |
 | F1 (fraud class)    | 0.845   |
 | Precision           | 90.9%   |
 | Recall              | 81.6%   |
